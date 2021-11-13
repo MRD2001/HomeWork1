@@ -10,6 +10,9 @@
 proven sucess through series C, D, E and recently raised another $1.1B in a form of Late State Ventur or series G By August 13, 2021 which makes the total to $2.6B. In addition to funding, the company
 acquiered startups to strengthen its cababilities and to extend its reach to the consumers in the personal finance domain. Pinch (https://www.pinchrent.com/) in 2018 and Charlie Finance (https://www.hicharlie.com/)in 2021.The company now has post-money valuation in the range of $10B according to (https://www.privco.com/)
 ---
+
+![FinTech] (FinTech.jpg)
+
 ## Business Activities
 
 * What specific financial problem is the company is trying to solve?
@@ -78,6 +81,48 @@ acquiered startups to strengthen its cababilities and to extend its reach to the
 
 * Chime has also patents and regisitered trademarks:
 - SPOTME : Debit account services featuring a computer readable card
-- CHIME : Magnetically encoded debit cards; Downloadable computer application software for mobile phones, tablets, handheld computers and mobile devices, namely, software for accessing, viewing and managing checking accounts, credit card accounts and savings accounts, paying bills and transferring money ATM banking services; Banking services; Bill payment services; Checking account services; Credit and loan services; Financial services, namely, electronic remote check deposit services; Money transfer; On-line banking services; Savings account services.
+
+## Landscape
+* What domain of the financial idustry is the company in? 
+> Online Banking, including:  Magnetically encoded debit cards; Downloadable computer application software for mobile phones, tablets, handheld computers and mobile devices, namely, software for accessing, viewing and managing checking accounts, credit card accounts and savings accounts, paying bills and transferring money ATM banking services; Banking services; Bill payment services; Checking account services; Credit and loan services; Financial services, namely, electronic remote check deposit services; Money transfer; On-line banking services; Savings account services.
+> Magnetically encoded debit cards; Downloadable computer application software for mobile phones, tablets, handheld computers and mobile devices, namely, software for accessing, viewing and managing checking accounts, credit card accounts and savings accounts, paying bills and transferring money; Downloadable software in the nature of a mobile application to allow users to search, identify, and redeem loyalty reward offers; E-commerce software to allow users to perform electronic banking services via a global computer network; Applications for mobile phones for accessing banking services and information ATM banking services; Banking services; Bill payment services; Checking account services; Credit and loan services; Financial services, namely, electronic remote check deposit services; Money transfer; On-line banking services; Savings account services; Debit account services featuring a computer readable card. Electronic banking via a global computer network; online banking services accessible by means of downloadable mobile applications Design, development, installation and maintenance of computer software Research and development services in the field of technology and intellectual property rights relating to financial services, mobile banking through bank partners, and related products
+* What have been the major trends and innovations of this domain over the last 5-10 years? 
+>Online Banking was first adopted in New York in 1981 where the major banks like Citibank, Chase and others provided home banking services by making use of a system called videotext. Stanford Federal Credit Union was the first service provider of internet banking in October 1994.
+>The trends of digital banking:
+- Growth of online transactions
+- Simplified access to the banking products
+- paperless documentation
+- AI and ML usage
+- Data-driven approach
+- Greater personalisation
+- Rise of neobanks
+- Vivid design of mobile banks
+- Cloud technologies
+
+* What are the major companies in this domain?
+- Acorns
+- Current 
+- Dave
+- Varo Bank
+- Money Lion
+- N26
+- Revolt
+
+## Results
+
+* What has been the business impacy of this company so far?
+* What are the some core metrics that companies in this domain use to measure success? How Chime is performing accoridng to these metrics? We can check this link (https://www.businessofapps.com/data/chime-statistics/)
+* How Chime performing relative to competitors in the same domain (https://www.businessofapps.com/data/chime-statistics/)
+
+## Recommendations
+
+* If you were to advise the company, what products or services would you suggest they offer? 
+* Why do you think that offering that this product or service would benefit the company?
+* What technologies would this product or service utilize
+* Why are there tecnologies appropoeriate for your solution
+
+
+* 
+
 
 

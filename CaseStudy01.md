@@ -11,7 +11,7 @@ proven sucess through series C, D, E and recently raised another $1.1B in a form
 acquiered startups to strengthen its cababilities and to extend its reach to the consumers in the personal finance domain. Pinch (https://www.pinchrent.com/) in 2018 and Charlie Finance (https://www.hicharlie.com/)in 2021.The company now has post-money valuation in the range of $10B according to (https://www.privco.com/)
 ---
 
-![FinTech] (FinTech.jpg)
+![Image] (FinTech.jpg)
 
 ## Business Activities
 
@@ -23,6 +23,7 @@ acquiered startups to strengthen its cababilities and to extend its reach to the
 - 2019 5  Million
 - 2020 10 Million
 - 2021 12 Million
+
 * What solution this company offer that their compititors do not or cannot offer? The unfair advantage they utilise?
 >Perks of banking with Chime include overdraft protection called “SpotMe” and their early deposit system which allows customers to get their paycheck up to two days early. ... Chime's current success comes from its mobile friendly approach to banking that appeals to cash-strapped millennials.
 

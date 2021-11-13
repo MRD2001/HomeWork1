@@ -25,6 +25,7 @@ acquiered startups to strengthen its cababilities and to extend its reach to the
 
 * Which technologies are they currently using, and how are they implementing them?
 > Chime uses 28 technology products and services including HTML5, Google Analytics, and jQuery, according to G2 Stack. and actively using 26 technologies for its website, according to BuiltWith. These include SPF, Domain Not Resolving, and Google Apps for Business. The company also has registered 3 trademarks with the most popular class being 'Insurance; financial affairs', according to IPqwery.
+
 - HTML5 
 - Google Analytics, Google Fonts, Google Tag manager
 - Wordpress for Content management system
@@ -54,8 +55,29 @@ acquiered startups to strengthen its cababilities and to extend its reach to the
 - Hosting : nginx, Cloudflair, DNS Made Easy, Pantheon
 - Languages and Framework : HTML5
 - Marketing Automation : HubSpot Markting Hub, Segment
--  
--   
-- 
-- 
+- Security : GlobalSign, reCAPTCHA, DigiCert
+- Social Media : AddThis
+- Software Development : MapBox, Google Maps 
+- Support : Zendesk
+- User Engagement : Apester
+
+* Chime is actively using 26 technolgies for its website, according to builtWith (https://builtwith.com/detailed/chime.com) :
+- Ads : Microsofit Advertising
+- Anlaytics : Iterable
+- CDN : Cloudflare
+- CMS : Atlassian Cloud
+- Framework : Ruby and Rails token, PHP, Java EE,Bug Bounty,GlobalSign Domain verification, Heroku Vigor proxy
+- Hosting : Fastly hosted, Fastly load balancer, cloudflair hosting, Amazon, Domain Name Resolving
+- Media : Zoom
+- Mobile : Apple Mobile Web App Capable, Mobile Optimzed
+- eMail hosting providers : Valimail, SPF, Google APPs for Business
+- Name Server : Cloudflare DNS
+- Server : IPv6
+- SSL : DigiCert SSL
+- Widgets : Zapier, Zoom, DocuSign, Okta  
+
+* Chime has also patents and regisitered trademarks:
+- SPOTME : Debit account services featuring a computer readable card
+- CHIME : Magnetically encoded debit cards; Downloadable computer application software for mobile phones, tablets, handheld computers and mobile devices, namely, software for accessing, viewing and managing checking accounts, credit card accounts and savings accounts, paying bills and transferring money ATM banking services; Banking services; Bill payment services; Checking account services; Credit and loan services; Financial services, namely, electronic remote check deposit services; Money transfer; On-line banking services; Savings account services.
+
 

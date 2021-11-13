@@ -122,8 +122,14 @@ acquiered startups to strengthen its cababilities and to extend its reach to the
 * What technologies would this product or service utilize
 * Why are there tecnologies appropoeriate for your solution
 
-
-* 
+## Sources
+- crunchbase (https://www.crunchbase.com/organization/chime-2)
+- Medium (https://medium.com/life-at-chime/its-a-chimed-life-meet-ryan-king-our-co-founder-and-cto-7a1eab890e53)
+- BusinessOfApps (https://www.businessofapps.com/data/chime-statistics/)
+- Softensy (https://softensy.com/current-digital-banking-trends-do-you-still-need-a-web-based-app-in-2021/)
+- BuiltWith (https://builtwith.com/detailed/chime.com)
+- Forbes (https://www.forbes.com/profile/chris-britt/?sh=7a907bd47277)
+- 
 
 
 

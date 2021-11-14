@@ -10,6 +10,7 @@
 proven sucess through series C, D, E and recently raised another $1.1B in a form of Late State Ventur or series G By August 13, 2021 which makes the total to $2.6B. In addition to funding, the company
 acquiered startups to strengthen its cababilities and to extend its reach to the consumers in the personal finance domain. Pinch (https://www.pinchrent.com/) in 2018 and Charlie Finance (https://www.hicharlie.com/)in 2021.The company now has post-money valuation in the range of $10B according to (https://www.privco.com/)
 ---
+![image](https://user-images.githubusercontent.com/56103714/141663613-e671b60a-0fe2-469b-bcd2-e81b62afef4a.png)
 
 ![Image] (FinTech.jpg)
 
@@ -30,21 +31,6 @@ acquiered startups to strengthen its cababilities and to extend its reach to the
 * Which technologies are they currently using, and how are they implementing them?
 > Chime uses 28 technology products and services including HTML5, Google Analytics, and jQuery, according to G2 Stack. and actively using 26 technologies for its website, according to BuiltWith. These include SPF, Domain Not Resolving, and Google Apps for Business. The company also has registered 3 trademarks with the most popular class being 'Insurance; financial affairs', according to IPqwery.
 
-- HTML5 
-- Google Analytics, Google Fonts, Google Tag manager
-- Wordpress for Content management system
-- G suite for eMail hosting and tools
-- reCAPTCHA for security
-- nginx for Hosting
-- Google Maps 
-- Adobe TypKit for Design
-- Cloudflare 
-- DigiCert
-- AddThis for SocialMedia
-- New Relic Application Maintenance and monitoring
-- HubSpot Marketing Hub for marketing automation
-- Zendesk for Support
-- Global Sign for Security
 - For Analytics & BI (Optimizely, Google Anlytics, CrazyEgg, Flurry)
 - For Application Maintenance (NewRelic)
 - For CMS (WordPress)
@@ -87,6 +73,7 @@ acquiered startups to strengthen its cababilities and to extend its reach to the
 * What domain of the financial idustry is the company in? 
 > Online Banking, including:  Magnetically encoded debit cards; Downloadable computer application software for mobile phones, tablets, handheld computers and mobile devices, namely, software for accessing, viewing and managing checking accounts, credit card accounts and savings accounts, paying bills and transferring money ATM banking services; Banking services; Bill payment services; Checking account services; Credit and loan services; Financial services, namely, electronic remote check deposit services; Money transfer; On-line banking services; Savings account services.
 > Magnetically encoded debit cards; Downloadable computer application software for mobile phones, tablets, handheld computers and mobile devices, namely, software for accessing, viewing and managing checking accounts, credit card accounts and savings accounts, paying bills and transferring money; Downloadable software in the nature of a mobile application to allow users to search, identify, and redeem loyalty reward offers; E-commerce software to allow users to perform electronic banking services via a global computer network; Applications for mobile phones for accessing banking services and information ATM banking services; Banking services; Bill payment services; Checking account services; Credit and loan services; Financial services, namely, electronic remote check deposit services; Money transfer; On-line banking services; Savings account services; Debit account services featuring a computer readable card. Electronic banking via a global computer network; online banking services accessible by means of downloadable mobile applications Design, development, installation and maintenance of computer software Research and development services in the field of technology and intellectual property rights relating to financial services, mobile banking through bank partners, and related products
+
 * What have been the major trends and innovations of this domain over the last 5-10 years? 
 >Online Banking was first adopted in New York in 1981 where the major banks like Citibank, Chase and others provided home banking services by making use of a system called videotext. Stanford Federal Credit Union was the first service provider of internet banking in October 1994.
 >The trends of digital banking:
@@ -129,6 +116,12 @@ acquiered startups to strengthen its cababilities and to extend its reach to the
 - Softensy (https://softensy.com/current-digital-banking-trends-do-you-still-need-a-web-based-app-in-2021/)
 - BuiltWith (https://builtwith.com/detailed/chime.com)
 - Forbes (https://www.forbes.com/profile/chris-britt/?sh=7a907bd47277)
+- Gartner (https://wwww.gartner.com)
+- Netguru (https://www.netguru.com/blog/success-in-the-fintech-world)
+- Yahoo Finance (https://finance.yahoo.com/news/fintech-analytics-top-7-metrics-182104952.html?guccounter=1)
+- Builtin (https://builtin.com/fintech/fintech-companies-startups-to-know)
+- eMarketer (https://www.emarketer.com/content/chime-no-1-neobank-us)
+- FinTech Magazine (https://fintechmagazine.com/
 - 
 
 

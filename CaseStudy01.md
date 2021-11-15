@@ -16,61 +16,61 @@ acquiered startups to strengthen its cababilities and to extend its reach to the
 
 ## Business Activities
 
-# What Problem?
+### What Problem?
 > The banking services should be simple, helpful and free. This was the premise that Chime founded upon, by solving the financial problems that every American face. With Chime, the customer can have a more healthy persoanl finance through the several services and solutions made available for the users.
 
-# Chaime Users?
+### Chime Users?
 > All individuals that require banking services. The following are the number of customers Chime have and the growth presented over the years. As it provides more than just mobile banking experience to its customers. Chime competes with a “featurization” strategy. The fintech certainly offers a good mobile user experience and touts no fees to attract low- to middle-income consumers. Coming from 1 Million user in 2018, now thay have more than 12 Million user.
 
-# Chime Features
+### Chime Features
 
 >The unfair advantage that Chime utilise to compete is the service of overdraft protection called **SpotMe**  and their early deposit system which allows customers to get their paycheck up to two days early. ... Chime's current success comes from its mobile friendly approach to banking that appeals to cash-strapped millennials. the other feature that Chime have and give them leverage on top of its competition is **Credit-builder credit card** Chime’s predominantly low- to middle-income consumers aren’t in the crosshairs of the big credit card issuers’ marketing efforts. According to Cornerstone, 15% of Chime’s primary banking customers either have the card or are on its wait list. To get the card, a customer must have a Chime Spending Account and have set up their direct deposit with Chime.
 
-# Digital Stack of Chime 
+### Digital Stack of Chime 
 
 > Chime uses 28 technology products and services including HTML5, Google Analytics, and jQuery, according to G2 Stack. and actively using 26 technologies for its website, according to BuiltWith. These include SPF, Domain Not Resolving, and Google Apps for Business. The company also has registered 3 trademarks with the most popular class being 'Insurance; financial affairs', according to IPqwery. Here is the list of technologies by Categoty :
 
--- Analytics & BI : Optimizely, Google Anlytics, CrazyEgg, Flurry
--- Application Maintenance : NewRelic
--- CMS : WordPress
--- Collaboration : Google Drive
--- Demand Generation : Tapfiliate 
--- Design : Fonts.Com, Adobe TypeKit
--- Digital Marketing : Google Tag Manager
--- eComemrce : UpSellit
--- eMail Hosting and Tools : dmarican, ValiMail, G Suite
--- eMail Marketing : Mailgun
--- Hiring : GreenHouse, ZipRecruiter
--- Hosting : nginx, Cloudflair, DNS Made Easy, Pantheon
--- Languages and Framework : HTML5
--- Marketing Automation : HubSpot Markting Hub, Segment
--- Security : GlobalSign, reCAPTCHA, DigiCert
--- Social Media : AddThis
--- Software Development : MapBox, Google Maps 
--- Support : Zendesk
--- User Engagement : Apester
+- Analytics & BI : Optimizely, Google Anlytics, CrazyEgg, Flurry
+- Application Maintenance : NewRelic
+- CMS : WordPress
+- Collaboration : Google Drive
+- Demand Generation : Tapfiliate 
+- Design : Fonts.Com, Adobe TypeKit
+- Digital Marketing : Google Tag Manager
+- eComemrce : UpSellit
+- eMail Hosting and Tools : dmarican, ValiMail, G Suite
+- eMail Marketing : Mailgun
+- Hiring : GreenHouse, ZipRecruiter
+- Hosting : nginx, Cloudflair, DNS Made Easy, Pantheon
+- Languages and Framework : HTML5
+- Marketing Automation : HubSpot Markting Hub, Segment
+- Security : GlobalSign, reCAPTCHA, DigiCert
+- Social Media : AddThis
+- Software Development : MapBox, Google Maps 
+- Support : Zendesk
+- User Engagement : Apester
 
-* Chime is actively using 26 technolgies for its website, according to builtWith (https://builtwith.com/detailed/chime.com) :
--- Ads : Microsofit Advertising
--- Anlaytics : Iterable
--- CDN : Cloudflare
--- CMS : Atlassian Cloud
--- Framework : Ruby and Rails token, PHP, Java EE,Bug Bounty,GlobalSign Domain verification, Heroku Vigor proxy
--- Hosting : Fastly hosted, Fastly load balancer, cloudflair hosting, Amazon, Domain Name Resolving
--- Media : Zoom
--- Mobile : Apple Mobile Web App Capable, Mobile Optimzed
--- eMail hosting providers : Valimail, SPF, Google APPs for Business
--- Name Server : Cloudflare DNS
--- Server : IPv6
--- SSL : DigiCert SSL
--- Widgets : Zapier, Zoom, DocuSign, Okta  
+> Chime is actively using 26 technolgies for its website, according to builtWith (https://builtwith.com/detailed/chime.com) :
+- Ads : Microsofit Advertising
+- Anlaytics : Iterable
+- CDN : Cloudflare
+- CMS : Atlassian Cloud
+- Framework : Ruby and Rails token, PHP, Java EE,Bug Bounty,GlobalSign Domain verification, Heroku Vigor proxy
+- Hosting : Fastly hosted, Fastly load balancer, cloudflair hosting, Amazon, Domain Name Resolving
+- Media : Zoom
+- Mobile : Apple Mobile Web App Capable, Mobile Optimzed
+- eMail hosting providers : Valimail, SPF, Google APPs for Business
+- Name Server : Cloudflare DNS
+- Server : IPv6
+- SSL : DigiCert SSL
+- Widgets : Zapier, Zoom, DocuSign, Okta  
 
-* Chime has also patents and regisitered trademarks, In addition to CHIME :
+> Chime has also patents and regisitered trademarks, In addition to CHIME :
 - SPOTME : Debit account services featuring a computer readable card.
 
 ## Landscape
 
-# What FinTech Domain?
+### What FinTech Domain?
 
 > Chime, operates in the FinTech Domain of Online Banking, with products and services that include : Magnetically encoded debit cards; 
 Downloadable computer application software for mobile phones, tablets, handheld computers and mobile devices, namely, software for accessing, viewing and managing checking accounts, credit card accounts and savings accounts, paying bills and transferring money; 
@@ -79,7 +79,7 @@ Applications for mobile phones for accessing banking services and information AT
 online banking services; Savings account services; Debit account services featuring a computer readable card. Electronic banking via a global computer network;
 online banking services accessible by means of downloadable mobile applications Design, development, installation and maintenance of computer software Research and development services in the field of technology and intellectual property rights relating to financial services, mobile banking through bank partners, and related products
 
-# Trends of OnLine Banking
+### Trends of OnLine Banking
  
 >Online Banking was first adopted in New York in 1981 where the major banks like Citibank, Chase and others provided home banking services by making use of a system called videotext. Stanford Federal Credit Union was the first service provider of internet banking in October 1994.
 The trends of digital banking:

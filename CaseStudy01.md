@@ -1,8 +1,10 @@
 # Homework Week1 - FinTech Case Study
+
 ## overview and origin
 * Chime (https://www.chime.com/)
+
 ![Chime Logo] (ChimeLogo.jpg)
-* Founded in 2013 in San Fracisco Bay Area, USA. By Chris Britt and Ryan King
+* Founded in 2013 in San Fracisco Bay Area, USA. By Chris Britt and Ryan King. Also, Publicy launched in 2014 on the Dr. Phil show when he surprised his guests with a **chime card** and $5,000.
 
 > Chris Britt, a Self-made billionair,  worked at VISA and prepaid card company Green Dot, before coofounding Chime with Ryan King in 2013. Both were living in the same San Francisco neighbourhood.The chat about banking and payments and the oppurtunities the space represented.They wanted to make an impact outside the silicon Vally bubble, they decided to make the changes to people's financial health and provide a financial peace of mind to the american consumer. Chime started as a mobile banking APP and debit card with no monthly fees. The company depended on third party payments platform, but as started to scale up the company adopted a strategy to insource all the components of its digital stack allowing eventually to control their destiny. During the pandmic, one of Chime's most popular features was a stimulate advance-it let the customers borrow $1,200 before their goverment check arrives.It took Chime one year to reach one million customer account, in 20019 they have 5 Million customer accout.
 
@@ -72,7 +74,7 @@ acquiered startups to strengthen its cababilities and to extend its reach to the
 
 ### What FinTech Domain?
 
-> Chime, operates in the FinTech Domain of Online Banking, with products and services that include : Magnetically encoded debit cards; 
+> Chime, operates in the FinTech Domain of Online Banking (Or Digital Banking), with products and services that include : Magnetically encoded debit cards; 
 Downloadable computer application software for mobile phones, tablets, handheld computers and mobile devices, namely, software for accessing, viewing and managing checking accounts, credit card accounts and savings accounts, paying bills and transferring money; 
 Downloadable software in the nature of a mobile application to allow users to search, identify, and redeem loyalty reward offers; E-commerce software to allow users to perform electronic banking services via a global computer network; 
 Applications for mobile phones for accessing banking services and information ATM banking services; Banking services; Bill payment services; Checking account services; Credit and loan services; Financial services, namely, electronic remote check deposit services; Money transfer; 
@@ -93,19 +95,18 @@ The trends of digital banking:
 - Vivid design of mobile banks
 - Cloud technologies
 
-# Other Companies
+# Other digital banking providers
 
-- Acorns
-- Current 
-- Dave
-- Varo Bank
-- Money Lion
-- N26
-- Revolt
+- Sofi : Founded in 2011 based in San Francisco USA.Worth $9B, with 7.5 Million customer.
+- Nubank : Founded in 2013 based in Sao Paulo, Brazail.Worth $25B, with 35 Million Customer.
+- Tinkoff : Founded in 2006 based in Moscow, Russia. Worth $17B, with 13 Million Customer.
+- Money Lion : Founded in 2013, based in NY City, USA. Worth $2.9B, with 7.5 million customer.
+- N26 : founded in 2013, based in Berlin, Germany. Worth $3.5B with 7 million customer.
+- Revolut : Founded in 2015, based in London, England. Worth $33B, with 15 Million Customer.
 
 ## Results
 
-* What has been the business impacy of this company so far?
+* What has been the business impact of this company so far?
 
 * What are the some core metrics that companies in this domain use to measure success? How Chime is performing accoridng to these metrics? We can check this link (https://www.businessofapps.com/data/chime-statistics/)
 * How Chime performing relative to competitors in the same domain (https://www.businessofapps.com/data/chime-statistics/)
@@ -130,7 +131,7 @@ The trends of digital banking:
 - Builtin (https://builtin.com/fintech/fintech-companies-startups-to-know)
 - eMarketer (https://www.emarketer.com/content/chime-no-1-neobank-us)
 - FinTech Magazine (https://fintechmagazine.com/
-- 
+- topmobilebanks.com (https://topmobilebanks.com/blog/biggest-digital-banks-2021/)
 
 
 

@@ -29,16 +29,16 @@ acquiered startups to strengthen its cababilities and to extend its reach to the
 >Perks of banking with Chime include overdraft protection called “SpotMe” and their early deposit system which allows customers to get their paycheck up to two days early. ... Chime's current success comes from its mobile friendly approach to banking that appeals to cash-strapped millennials.
 
 * Which technologies are they currently using, and how are they implementing them?
-> Chime uses 28 technology products and services including HTML5, Google Analytics, and jQuery, according to G2 Stack. and actively using 26 technologies for its website, according to BuiltWith. These include SPF, Domain Not Resolving, and Google Apps for Business. The company also has registered 3 trademarks with the most popular class being 'Insurance; financial affairs', according to IPqwery.
+> Chime uses 28 technology products and services including HTML5, Google Analytics, and jQuery, according to G2 Stack. and actively using 26 technologies for its website, according to BuiltWith. These include SPF, Domain Not Resolving, and Google Apps for Business. The company also has registered 3 trademarks with the most popular class being 'Insurance; financial affairs', according to IPqwery. Here is the list of technologies by Categoty :
 
-- For Analytics & BI (Optimizely, Google Anlytics, CrazyEgg, Flurry)
-- For Application Maintenance (NewRelic)
-- For CMS (WordPress)
-- For Collaboration (Google Drive)
-- For Demand Generation (Tapfiliate) 
-- For Design (Fonts.Com, Adobe TypeKit)
-- For Digital Marketing ( Google Tag Manager)
-- For eComemrce (UpSellit)
+- Analytics & BI : Optimizely, Google Anlytics, CrazyEgg, Flurry
+- Application Maintenance : NewRelic
+- CMS : WordPress
+- Collaboration : Google Drive
+- Demand Generation : Tapfiliate 
+- Design : Fonts.Com, Adobe TypeKit
+- Digital Marketing : Google Tag Manager
+- eComemrce : UpSellit
 - eMail Hosting and Tools : dmarican, ValiMail, G Suite
 - eMail Marketing : Mailgun
 - Hiring : GreenHouse, ZipRecruiter
@@ -66,13 +66,18 @@ acquiered startups to strengthen its cababilities and to extend its reach to the
 - SSL : DigiCert SSL
 - Widgets : Zapier, Zoom, DocuSign, Okta  
 
-* Chime has also patents and regisitered trademarks:
-- SPOTME : Debit account services featuring a computer readable card
+* Chime has also patents and regisitered trademarks, In addition to CHIME :
+- SPOTME : Debit account services featuring a computer readable card.
 
 ## Landscape
-* What domain of the financial idustry is the company in? 
-> Online Banking, including:  Magnetically encoded debit cards; Downloadable computer application software for mobile phones, tablets, handheld computers and mobile devices, namely, software for accessing, viewing and managing checking accounts, credit card accounts and savings accounts, paying bills and transferring money ATM banking services; Banking services; Bill payment services; Checking account services; Credit and loan services; Financial services, namely, electronic remote check deposit services; Money transfer; On-line banking services; Savings account services.
-> Magnetically encoded debit cards; Downloadable computer application software for mobile phones, tablets, handheld computers and mobile devices, namely, software for accessing, viewing and managing checking accounts, credit card accounts and savings accounts, paying bills and transferring money; Downloadable software in the nature of a mobile application to allow users to search, identify, and redeem loyalty reward offers; E-commerce software to allow users to perform electronic banking services via a global computer network; Applications for mobile phones for accessing banking services and information ATM banking services; Banking services; Bill payment services; Checking account services; Credit and loan services; Financial services, namely, electronic remote check deposit services; Money transfer; On-line banking services; Savings account services; Debit account services featuring a computer readable card. Electronic banking via a global computer network; online banking services accessible by means of downloadable mobile applications Design, development, installation and maintenance of computer software Research and development services in the field of technology and intellectual property rights relating to financial services, mobile banking through bank partners, and related products
+
+> chime, operates in the FinTech Domain of Online Banking, with products and services that include :
+- Magnetically encoded debit cards; 
+- Downloadable computer application software for mobile phones, tablets, handheld computers and mobile devices, namely, software for accessing, viewing and managing checking accounts, credit card accounts and savings accounts, paying bills and transferring money; 
+- Downloadable software in the nature of a mobile application to allow users to search, identify, and redeem loyalty reward offers; E-commerce software to allow users to perform electronic banking services via a global computer network; 
+- Applications for mobile phones for accessing banking services and information ATM banking services; Banking services; Bill payment services; Checking account services; Credit and loan services; Financial services, namely, electronic remote check deposit services; Money transfer; 
+- online banking services; Savings account services; Debit account services featuring a computer readable card. Electronic banking via a global computer network;
+- online banking services accessible by means of downloadable mobile applications Design, development, installation and maintenance of computer software Research and development services in the field of technology and intellectual property rights relating to financial services, mobile banking through bank partners, and related products
 
 * What have been the major trends and innovations of this domain over the last 5-10 years? 
 >Online Banking was first adopted in New York in 1981 where the major banks like Citibank, Chase and others provided home banking services by making use of a system called videotext. Stanford Federal Credit Union was the first service provider of internet banking in October 1994.

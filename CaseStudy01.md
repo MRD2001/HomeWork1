@@ -22,7 +22,7 @@ acquiered startups to strengthen its cababilities and to extend its reach to the
 > The banking services should be simple, helpful and free. This was the premise that Chime founded upon, by solving the financial problems that every American face. With Chime, the customer can have a more healthy persoanl finance through the several services and solutions made available for the users.
 
 ### Chime Users?
-> All individuals that require banking services. The following are the number of customers Chime have and the growth presented over the years. As it provides more than just mobile banking experience to its customers. Chime competes with a “featurization” strategy. The fintech certainly offers a good mobile user experience and touts no fees to attract low- to middle-income consumers. Coming from 1 Million user in 2018, now thay have more than 12 Million user.
+> All individuals that require banking services. The following are the number of customers Chime have and the growth presented over the years. As it provides more than just mobile banking experience to its customers. Chime competes with a “featurization” strategy. The fintech certainly offers a good mobile user experience and touts no fees to attract low- to middle-income consumers.While Chime has grown its overall customer base, the percentage of Gen Zers that consider Chime their primary checking account provider declined between October 2020 and July 2021 according to two Cornerstone Advisors consumer studies. Coming from 1 Million user in 2018, now thay have more than 12 Million user.
 
 ### Chime Features
 
@@ -109,6 +109,17 @@ The trends of digital banking:
 * What has been the business impact of this company so far?
 
 * What are the some core metrics that companies in this domain use to measure success? How Chime is performing accoridng to these metrics? We can check this link (https://www.businessofapps.com/data/chime-statistics/)
+
+### Chime Performance
+
+Chime is performing very well in the domain of digital banking and considered one of the top FinTech Companies in 2021.Chime has done an amazing job at customer acquisition and dominates the digital bank space.  
+
+
+But, there are 3 looming threats to the growth to Chime and other FinTech Companies: 
+- Emerging niche digital banks : Chime and Varo have been battling it out for the low- to middle-income consumer segment in the digital banking space, but as players like First Boulevard, OurBanc, and Greenwood gain traction in the African-American community they’ll stunt Chime’s growth. Other niche neobanks will also chip away at both Chime’s existing and potential customer base. Translation: Chime’s hockey stick growth curve may be upside down.
+- Wallmart : Low- to middle-income consumers comprise Walmart’s core customer base. The retailer’s existing financial service offerings clearly haven’t stunted Chime’s growth. The big unknown is what Walmart’s fintech plans are. My hypothesis is that Walmart wants to build a super app that would bundle a wide range of services, not just retail and financial. If Chime’s plan is to expand beyond financial products (like Revolut with its travel agency), it better get a move on if it hasn’t done so already.
+- Square : From a demographic perspective, Square Cash App users look a lot like Chime’s customers. With its seller ecosystem services, Square Capital, and now a business checking account, Square has created a business model that goes well beyond just making money on interchange. With its crypto services and the acquisition of Tidal, Square has diversified its revenue sources from its consumer base.
+
 * How Chime performing relative to competitors in the same domain (https://www.businessofapps.com/data/chime-statistics/)
 
 ## Recommendations

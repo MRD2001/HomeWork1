@@ -108,7 +108,15 @@ The trends of digital banking:
 
 * What has been the business impact of this company so far?
 
-* What are the some core metrics that companies in this domain use to measure success? How Chime is performing accoridng to these metrics? We can check this link (https://www.businessofapps.com/data/chime-statistics/)
+### What to look at when measuring the success of a fintech business?
+
+- Acquisition, including the number of app downloads and new customers,
+- Activation, which indicates the number of people who actually start using your solution,
+- Retention rate, which indicates how many people hold on to and keep on using your product,
+- Number of referrals, or customer recommendations, is one of the best indicators of success you can look at,
+- Daily revenue, and/or the number of transactions,
+- Marketing metrics that best work for the business,
+- Technical metrics, including page load times and database memory use that indicate how smoothly your tool performs.
 
 ### Chime Performance
 

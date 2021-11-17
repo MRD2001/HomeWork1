@@ -23,6 +23,8 @@ acquiered startups to strengthen its cababilities and to extend its reach to the
 > Chime built to solve problems that are customers face when dealing with traditional banks or trying to manage their money. Problems like Overdraft fees, Bank holds, maintenance fees and bank trust. The banking services should be simple, helpful and free. This was the premise that Chime founded upon, by solving the financial problems that every American face. With Chime, the customer can have a more healthy persoanl finance through the several services and solutions made available for the users.
 
 ### Who are Chime Users?
+![image](chimeusers.jpeg)
+
 > All individuals that require banking services. Chime users are individuals with Fixed, and low income, unemployed and unbanked. The following are the number of customers Chime have and the growth presented over the years. As it provides more than just mobile banking experience to its customers. Chime competes with a “featurization” strategy. The fintech certainly offers a good mobile user experience and touts no fees to attract low- to middle-income consumers.While Chime has grown its overall customer base, the percentage of Gen Zers that consider Chime their primary checking account provider declined between October 2020 and July 2021 according to two Cornerstone Advisors consumer studies. Coming from 1 Million user in 2018, now thay have more than 12 Million user.
 
 ### Chime Features
@@ -77,6 +79,7 @@ acquiered startups to strengthen its cababilities and to extend its reach to the
 ## Landscape
 
 ### What Domain of FinTech?
+![image](chimeproducts.jpeg)
 
 > Chime, operates in the FinTech Domain of Online Banking (Or Digital Banking), with products and services that include : Magnetically encoded debit cards; 
 Downloadable computer application software for mobile phones, tablets, handheld computers and mobile devices, namely, software for accessing, viewing and managing checking accounts, credit card accounts and savings accounts, paying bills and transferring money; 

@@ -173,13 +173,22 @@ But, **there are 3 looming threats to the growth to Chime and other FinTech Comp
 
 > It has been mentioned in multiple occussions that there are issues or limitation in the customers onboarding to the chime APP. Some negative reviews and feedback coming from customers trying to register in some blogs. So, I would adivse to put an extra attention to the onboarding process, especially chime is a digital bank and does not have a branch where customers can walk into and ask for an advice.chime needs to rely on technology to attend customer service issues and to find oppurtunities in customers needs to create new services.
 
+> The company can utilise **AI/ML** and create **cognitive AI** to enhance the perosnalisation and streamline the onboaridng further.This technology will improve the customer service, as people still seek human interaction to ask or solve their problems, with better AI and conversational BOTs, chime can reach to a human-like interaction with the customers which will put them at ease. 
 
-The company can utilise **AI/ML** to enhance the perosnalisation and streamline the onboaridng further.This technology will improve the customer service, as people still seek human interaction to ask or solve their problems, with better AI and conversational BOTs, chime can reach to a human-like interaction with the customers which will put them at ease. This will increase the acqusition rates, and reduce the customer churn, hence encourage the customers to use their services which means more swipes and more reveneue to the company.
+AI encompasses, among other things, cognitive automation, cognitive engagement, and cognitive insights:
+- Cognitive automation : Enable machines to replicate human actions and judgment with robotics and cognitive technologies'
+- Cognitive engagement :Use intelligent agents and avatars to deliver mass consumer personalization at scale and smarter, more relevant insights to amplify end user experience
+- Cognitive insights : Employ data science and machine learning to detect critical patterns, make high-quality predictions, and support business performance
 
-* If you were to advise the company, what products or services would you suggest they offer? 
-* Why do you think that offering that this product or service would benefit the company?
-* What technologies would this product or service utilize
-* Why are there tecnologies appropoeriate for your solution
+> Thanks to cognitive intelligence, AI-powered systems are able to mimic some aspects of human intellect by :
+-recognising and understanding elements for which they are programed. This is the first step of cognitive Al. For example, syntax of a text, shapes in handwritten text, figures or faces on an image or a video, syntax of voice, and much more.
+- Applying context and interactions - The capacity to represent links between different pieces of information. For example: “Bob is a dog. Dogs are animals. Dogs hate cats.”
+- Reasoning and making decisions - Consists of interpreting the information recognized, possibly by making links with context. Then, decisions are made based on AI insights.
+- Identify semantics - Reasoning and making decisions also works as an enabler to identify the meaning of information recognized. For example, the sentence “I am going to the bank” can have two meanings (the establishment or the riverbank), it is necessary to know the context and to make a link to better understand the meaning of this sentence.
+- Learning and improving - The last and most crucial step of cognitive AI is the function of learning from the data provided, but also from mistakes in order to self-improve. This capacity is referred to as machine learning.
+
+>The proper and carefull implementation of cognitive AI, will increase the acqusition rates, and reduce the customer churn, hence encourage the customers to use their services which means more swipes and more reveneue to the company. **Customer service** is one of the most prominent areas of FinTech that has been improved by artificial intelligence. The increasing sophistication of artificial intelligence has resulted in chatbot, virtual helpers  and artificial intelligence interfaces that can reliably interact with customers. The ability to answer basic queries offers massive potential in reducing front office and helpline costs.In addition to that **AI Provides Analytics and Insights**; In conjunction with quick decision making, AI offers chime game-changing insights which are key in the FinTech sector that is so heavily reliant on gathering and processing customer data. Not only does this empower Chime, but it empowers their customers as well. Chime can give customers insight into their own spending based on income, expenditure and spending habits, ultimately providing a new method of personalised financial management. 
+
 
 ## Sources
 - crunchbase (https://www.crunchbase.com/organization/chime-2)
@@ -196,6 +205,10 @@ The company can utilise **AI/ML** to enhance the perosnalisation and streamline 
 - FinTech Magazine (https://fintechmagazine.com/
 - topmobilebanks.com (https://topmobilebanks.com/blog/biggest-digital-banks-2021/)
 - Slideshare (https://www.slideshare.net/BryantOwens/chime-product-breakdown-final-219595468)
+- wise (https://wise.com/us/blog/chime-reviews)
+- Deloitte (https://www2.deloitte.com/uk/en/pages/financial-services/articles/cognitive-intelligence-to-boost-digital-transformations-in-financial-services.html)
+- Intelligent Autmation Network (https://www.intelligentautomation.network/artificial-intelligence/articles/8-ways-ai-is-changing-fintech)
+
 
 
 

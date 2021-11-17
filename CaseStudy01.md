@@ -98,6 +98,15 @@ Chime apply these cutting-edge technologies to improve existing financial servic
 - Vivid design of mobile banks
 - Cloud technologies
 
+> the following table shows the growth of Chime as a result of adopting the customers trends in digital banking and online landscape in general:
+
+| Year | Users      | Valuation |
+| ---- | ---------- | --------- |
+| 2018 | 1 Million  | $0.5B.    |
+| 2019 | 5 Million  | $5.8B     |
+| 2020 | 10 Million | $14.5B.   |
+| 2021 | 12 Million | $25B.     |
+
 ### Other digital banking providers
 
 - Sofi : Founded in 2011 based in San Francisco USA.Worth $9B, with 7.5 Million customer.
@@ -130,16 +139,16 @@ Chime apply these cutting-edge technologies to improve existing financial servic
 - Technical metrics, including page load times and database memory use that indicate how smoothly your tool performs.
 
 > chime acquisition funnel is done through steps, Incoming traffic from various sources , APP searches, App downloads, New account applications, Chime debit card activiation, 1st Chime card swipe, and 50th chime debit card swipe.
-> here is how chime is compared with the other rivals in the domain
+> here is how chime is compared with the other rivals in the domain :
 
-| Company | Number of Customers | Value |
-| ------- | ------------------- | ----- |
-| Chime   |                     |.      |
-| Sofi    |
-| NuBank. |
-| Tinkof  |
-| N26.    |
-| Revolut | 15 Million.         | $33B  |
+| Company | Number of Customers | Value   |
+| ------- | ------------------- | ------- |
+| Chime   | 12 Million          | $25B    |
+| Sofi    | 7.5 Million.        | $9B.    |
+| NuBank. | 35 Million.         | $25B.   |
+| Tinkoff | 13 Million.         | $17B.   |
+| N26.    | 7 Million.          | $3.5B.  |
+| Revolut | 15 Million.         | $33B    |
 
 
 

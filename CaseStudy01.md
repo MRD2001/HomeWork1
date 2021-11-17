@@ -1,9 +1,8 @@
 # Homework Week1 - FinTech Case Study
 
 ## overview and origin
-* Chime (https://www.chime.com/)
+* Chime (https://www.chime.com/). ![image](chimelogo.jpg)
 
-![Chime Logo] (ChimeLogo.jpg)
 * Founded in 2013 in San Fracisco Bay Area, USA. By Chris Britt and Ryan King. Also, Publicy launched in 2014 on the Dr. Phil show when he surprised his guests with a **chime card** and $5,000.
 
 > Their mission statement "We created chime because we beleive everyone deserves financial peace of mind. We're building a new kind of bank account that helps members get ahead by making managing money easy. It's your money, It's your life, Chime in.."
@@ -111,12 +110,12 @@ Chime apply these cutting-edge technologies to improve existing financial servic
 
 ### Other digital banking providers
 
-- Sofi : Founded in 2011 based in San Francisco USA.Worth $9B, with 7.5 Million customer.
-- Nubank : Founded in 2013 based in Sao Paulo, Brazail.Worth $25B, with 35 Million Customer.
-- Tinkoff : Founded in 2006 based in Moscow, Russia. Worth $17B, with 13 Million Customer.
-- Money Lion : Founded in 2013, based in NY City, USA. Worth $2.9B, with 7.5 million customer.
-- N26 : founded in 2013, based in Berlin, Germany. Worth $3.5B with 7 million customer.
-- Revolut : Founded in 2015, based in London, England. Worth $33B, with 15 Million Customer.
+- Sofi : Founded in 2011 based in San Francisco USA.
+- Nubank : Founded in 2013 based in Sao Paulo, Brazail.
+- Tinkoff : Founded in 2006 based in Moscow, Russia. 
+- Money Lion : Founded in 2013, based in NY City, USA. 
+- N26 : founded in 2013, based in Berlin, Germany. 
+- Revolut : Founded in 2015, based in London, England. 
 
 ## Results
 
@@ -127,6 +126,8 @@ Chime apply these cutting-edge technologies to improve existing financial servic
 - to ship debit cards quickly witin 1 day
 - to reduce the time from application complete to the customer receiving their card
 - to increase referral year over year 
+
+![image](chimeUI.jpg)
 
 
 

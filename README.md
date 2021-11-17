@@ -34,7 +34,7 @@ acquiered startups to strengthen its cababilities and to extend its reach to the
 
 ### Digital Stack of Chime 
 
-> Chime uses 28 technology products and services including HTML5, Google Analytics, and jQuery, according to G2 Stack. and actively using 26 technologies for its website, according to BuiltWith. These include SPF, Domain Not Resolving, and Google Apps for Business. The company also has registered 3 trademarks with the most popular class being 'Insurance; financial affairs', according to IPqwery. Here is the list of technologies by Categoty :
+> Chime uses 28 technology products and services including HTML5, Google Analytics, and jQuery, according to G2 Stack. The company also has registered 3 trademarks with the most popular class being 'Insurance; financial affairs', according to IPqwery. Here is the list of technologies by Categoty :
 
 - Analytics & BI : Optimizely, Google Anlytics, CrazyEgg, Flurry
 - Application Maintenance : NewRelic
@@ -82,12 +82,12 @@ acquiered startups to strengthen its cababilities and to extend its reach to the
 ### What Domain of FinTech?
 ![image](chimeproducts.jpeg)
 
-> Chime, operates in the FinTech Domain of Online Banking (Or Digital Banking), with products and services that include : Magnetically encoded debit cards; 
-Downloadable computer application software for mobile phones, tablets, handheld computers and mobile devices, namely, software for accessing, viewing and managing checking accounts, credit card accounts and savings accounts, paying bills and transferring money; 
-Downloadable software in the nature of a mobile application to allow users to search, identify, and redeem loyalty reward offers; E-commerce software to allow users to perform electronic banking services via a global computer network; 
-Applications for mobile phones for accessing banking services and information ATM banking services; Banking services; Bill payment services; Checking account services; Credit and loan services; Financial services, namely, electronic remote check deposit services; Money transfer; 
-online banking services; Savings account services; Debit account services featuring a computer readable card. Electronic banking via a global computer network;
-online banking services accessible by means of downloadable mobile applications Design, development, installation and maintenance of computer software Research and development services in the field of technology and intellectual property rights relating to financial services, mobile banking through bank partners, and related products
+> Chime, operates in the FinTech Domain of Online Banking (Or Digital Banking), with products and services that include : **Magnetically encoded debit cards**; 
+**Downloadable computer application software** for mobile phones, tablets, handheld computers and mobile devices, namely, software for accessing, viewing and managing checking accounts, credit card accounts and savings accounts, paying bills and transferring money; 
+**Downloadable software in the nature of a mobile application** to allow users to search, identify, and redeem loyalty reward offers; **E-commerce software** to allow users to perform electronic banking services via a global computer network; 
+**Applications for mobile phones** for accessing banking services and information ATM banking services; Banking services; Bill payment services; Checking account services; Credit and loan services; Financial services, namely, electronic remote check deposit services; Money transfer; 
+**online banking services**; Savings account services; Debit account services featuring a computer readable card. Electronic banking via a global computer network;
+online banking services accessible by means of downloadable mobile applications Design, development, installation and maintenance of computer software Research and development services in the field of technology and intellectual property rights relating to financial services, mobile banking through bank partners, and related products.
 
 ### Trends of OnLine Banking
  
@@ -95,14 +95,15 @@ online banking services accessible by means of downloadable mobile applications 
 Chime apply these cutting-edge technologies to improve existing financial services or create new ones, the following trends adopted by Chime, alongside by other digital banking providers:
 
 - Growth of online transactions : people more often choose it over offline payments and trips to brick-and-mortar stores.Besides, during remote times, many have tried stock trading
-- Simplified access to the banking products : 
-- paperless documentation
-- AI and ML usage
-- Data-driven approach
-- Greater personalisation
-- Rise of neobanks
-- Vivid design of mobile banks
-- Cloud technologies
+- Simplified access to the banking products : Minimum time and effort are the top priority things for modern customers. With this in mind, banks are trying to simplify access to banking products and make the user experience as pleasant and seamless as possible.
+- paperless documentation :Most modern banks allow customers to open accounts, pay taxes, and carry out other financial transactions without leaving online banking. In this regard, digital electronic signatures, security tools, and biometrics systems are actively developing. This situation shapes future trends in mobile banking, forcing financial institutions to pay more attention to cybersecurity and customer data protection.
+- AI and ML usage : Artificial Intelligence and ML are not a new technology now and we see its applications across our lives, not only in financial services. 
+ -   marketing and sales: lead scoring, cross-selling, personal offers, targeting
+  -  customer service: chatbots, voice bots, checking client documents
+  - back-office processes: risk management, intelligent processing of documentation
+- Data-driven approach : In 2021 , banks build a smarter ways to use collected data through logical data structuring and extracting meaningful pieces of information. Like drawing up a certain pattern manifisted by the customer behaviour, which allows more personalised targeted marketing. The revolution of **Big Data** from online baning, ATM machines, Mobile APPs, Call centers, and the branches. 
+- Cloud technologies : this specific trend of technological advancement is the most important factor for the rise of FinTech and the establishment of better, simpler and cheaper ways to manage our finances. Cloud services are becoming a hot trend in digital banking innovation. They allow you to launch financial services faster and quickly scale them on-demand. Organizations save time and money by working in the cloud because they don’t have to deploy IT infrastructure on-premise. Cloud providers supply developers with all the necessary tools, including server space, AI/ML technologies, backup/restore functions, etc. This makes development faster and more efficient. And when the business starts to grow, you can easily adapt to its changing needs by purchasing the necessary resources.
+
 
 > the following table shows the growth of Chime as a result of adopting the customers trends in digital banking and online landscape in general:
 

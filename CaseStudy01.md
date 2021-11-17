@@ -1,7 +1,8 @@
 # Homework Week1 - FinTech Case Study
 
 ## overview and origin
-* Chime (https://www.chime.com/). ![image](chimelogo.jpg)
+
+![image](chimelogo.jpg)
 
 * Founded in 2013 in San Fracisco Bay Area, USA. By Chris Britt and Ryan King. Also, Publicy launched in 2014 on the Dr. Phil show when he surprised his guests with a **chime card** and $5,000.
 
@@ -127,8 +128,7 @@ Chime apply these cutting-edge technologies to improve existing financial servic
 - to reduce the time from application complete to the customer receiving their card
 - to increase referral year over year 
 
-![image](chimeUI.jpg)
-
+![image](chimeUI.jpeg)
 
 
 ### What to look at when measuring the success of a fintech business?

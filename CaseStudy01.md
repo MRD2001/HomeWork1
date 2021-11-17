@@ -17,6 +17,8 @@ acquiered startups to strengthen its cababilities and to extend its reach to the
 ![image](https://user-images.githubusercontent.com/56103714/141663613-e671b60a-0fe2-469b-bcd2-e81b62afef4a.png)
 
 ![Image] (FinTech.jpg)
+![Image](FinTech.jpg)
+
 
 ## Business Activities
 
@@ -71,6 +73,9 @@ acquiered startups to strengthen its cababilities and to extend its reach to the
 
 > Chime has also patents and regisitered trademarks, In addition to CHIME :
 - SPOTME : Debit account services featuring a computer readable card.
+
+![image](chime1.jpeg)
+
 
 ## Landscape
 

@@ -6,7 +6,9 @@
 ![Chime Logo] (ChimeLogo.jpg)
 * Founded in 2013 in San Fracisco Bay Area, USA. By Chris Britt and Ryan King. Also, Publicy launched in 2014 on the Dr. Phil show when he surprised his guests with a **chime card** and $5,000.
 
-> Chris Britt, a Self-made billionair,  worked at VISA and prepaid card company Green Dot, before coofounding Chime with Ryan King in 2013. Both were living in the same San Francisco neighbourhood.The chat about banking and payments and the oppurtunities the space represented.They wanted to make an impact outside the silicon Vally bubble, they decided to make the changes to people's financial health and provide a financial peace of mind to the american consumer. Chime started as a mobile banking APP and debit card with no monthly fees. The company depended on third party payments platform, but as started to scale up the company adopted a strategy to insource all the components of its digital stack allowing eventually to control their destiny. During the pandmic, one of Chime's most popular features was a stimulate advance-it let the customers borrow $1,200 before their goverment check arrives.It took Chime one year to reach one million customer account, in 20019 they have 5 Million customer accout.
+> Their mission statement "We created chime because we beleive everyone deserves financial peace of mind. We're building a new kind of bank account that helps members get ahead by making managing money easy. It's your money, It's your life, Chime in.."
+
+> Chris Britt, a Self-made billionair,  worked at VISA and prepaid card company Green Dot, before coofounding Chime with Ryan King in 2013. Both were living in the same San Francisco neighbourhood.The chat about banking and payments and the oppurtunities the space represented.They wanted to make an impact outside the silicon Vally bubble, they decided to make the changes to people's financial health and provide a financial peace of mind to the american consumer. Chime started as a mobile banking APP and debit card with no monthly fees. The company depended on third party payments platform, but as started to scale up the company adopted a strategy to insource all the components of its digital stack allowing eventually to control their destiny. During the pandmic, one of Chime's most popular features was a stimulate advance-it let the customers borrow $1,200 before their goverment check arrives.It took Chime one year to reach one million customer account, in 20019 they have 5 Million customer accout. 
 
 > Chime raised $2.6B in funding over 10 rounds. The funding started on August 2013 through seed round with $3.8M by 3 investors and one partner investor. 2 Rounds of Series A funding in 2014 and 2016, followed by Series B round in 2017. The funding rounding continue as the company
 proven sucess through series C, D, E and recently raised another $1.1B in a form of Late State Ventur or series G By August 13, 2021 which makes the total to $2.6B. In addition to funding, the company
@@ -19,14 +21,14 @@ acquiered startups to strengthen its cababilities and to extend its reach to the
 ## Business Activities
 
 ### What Problem?
-> The banking services should be simple, helpful and free. This was the premise that Chime founded upon, by solving the financial problems that every American face. With Chime, the customer can have a more healthy persoanl finance through the several services and solutions made available for the users.
+> Chime built to solve problems that are customers face when dealing with traditional banks or trying to manage their money. Problems like Overdraft fees, Bank holds, maintenance fees and bank trust. The banking services should be simple, helpful and free. This was the premise that Chime founded upon, by solving the financial problems that every American face. With Chime, the customer can have a more healthy persoanl finance through the several services and solutions made available for the users.
 
-### Chime Users?
-> All individuals that require banking services. The following are the number of customers Chime have and the growth presented over the years. As it provides more than just mobile banking experience to its customers. Chime competes with a “featurization” strategy. The fintech certainly offers a good mobile user experience and touts no fees to attract low- to middle-income consumers.While Chime has grown its overall customer base, the percentage of Gen Zers that consider Chime their primary checking account provider declined between October 2020 and July 2021 according to two Cornerstone Advisors consumer studies. Coming from 1 Million user in 2018, now thay have more than 12 Million user.
+### Who are Chime Users?
+> All individuals that require banking services. Chime users are individuals with Fixed, and low income, unemployed and unbanked. The following are the number of customers Chime have and the growth presented over the years. As it provides more than just mobile banking experience to its customers. Chime competes with a “featurization” strategy. The fintech certainly offers a good mobile user experience and touts no fees to attract low- to middle-income consumers.While Chime has grown its overall customer base, the percentage of Gen Zers that consider Chime their primary checking account provider declined between October 2020 and July 2021 according to two Cornerstone Advisors consumer studies. Coming from 1 Million user in 2018, now thay have more than 12 Million user.
 
 ### Chime Features
 
->The unfair advantage that Chime utilise to compete is the service of overdraft protection called **SpotMe**  and their early deposit system which allows customers to get their paycheck up to two days early. ... Chime's current success comes from its mobile friendly approach to banking that appeals to cash-strapped millennials. the other feature that Chime have and give them leverage on top of its competition is **Credit-builder credit card** Chime’s predominantly low- to middle-income consumers aren’t in the crosshairs of the big credit card issuers’ marketing efforts. According to Cornerstone, 15% of Chime’s primary banking customers either have the card or are on its wait list. To get the card, a customer must have a Chime Spending Account and have set up their direct deposit with Chime.
+>Chime is using so many advantages, onstage and backstage, to further leverage their offerings and improve their product attractiveness to the customers. The unfair advantage that Chime utilise to compete is the service of overdraft protection called **SpotMe**  and their early deposit system which allows customers to get their paycheck up to two days early. ... Chime's current success comes from its mobile friendly approach to banking that appeals to cash-strapped millennials. the other feature that Chime have and give them leverage on top of its competition is **Credit-builder credit card** Chime’s predominantly low- to middle-income consumers aren’t in the crosshairs of the big credit card issuers’ marketing efforts. According to Cornerstone, 15% of Chime’s primary banking customers either have the card or are on its wait list. To get the card, a customer must have a Chime Spending Account and have set up their direct deposit with Chime.
 
 ### Digital Stack of Chime 
 
@@ -72,7 +74,7 @@ acquiered startups to strengthen its cababilities and to extend its reach to the
 
 ## Landscape
 
-### What FinTech Domain?
+### What Domain of FinTech?
 
 > Chime, operates in the FinTech Domain of Online Banking (Or Digital Banking), with products and services that include : Magnetically encoded debit cards; 
 Downloadable computer application software for mobile phones, tablets, handheld computers and mobile devices, namely, software for accessing, viewing and managing checking accounts, credit card accounts and savings accounts, paying bills and transferring money; 
@@ -83,10 +85,11 @@ online banking services accessible by means of downloadable mobile applications 
 
 ### Trends of OnLine Banking
  
->Online Banking was first adopted in New York in 1981 where the major banks like Citibank, Chase and others provided home banking services by making use of a system called videotext. Stanford Federal Credit Union was the first service provider of internet banking in October 1994.
-The trends of digital banking:
-- Growth of online transactions
-- Simplified access to the banking products
+>Online Banking was first adopted in New York in 1981 where the major banks like Citibank, Chase and others provided home banking services by making use of a system called videotext. Stanford Federal Credit Union was the first service provider of internet banking in October 1994. The Digital Banking and FinTech in general have begun developing on a lrager scale after 2007 financial crisis, which caused a decline in confidence in traditional financial institutions. Since then, the sector has grown to be one of the most competitive industries, thanks to (but not limited to) new technologies that allowed many businesses to gain a competitive advantage: Blockchain, AI, biometric indication, RPA, big data, new payment methods, infrastructure-based technologies, and others.
+Chime apply these cutting-edge technologies to improve existing financial services or create new ones, the following trends adopted by Chime, alongside by other digital banking providers:
+
+- Growth of online transactions : people more often choose it over offline payments and trips to brick-and-mortar stores.Besides, during remote times, many have tried stock trading
+- Simplified access to the banking products : 
 - paperless documentation
 - AI and ML usage
 - Data-driven approach
@@ -95,7 +98,7 @@ The trends of digital banking:
 - Vivid design of mobile banks
 - Cloud technologies
 
-# Other digital banking providers
+### Other digital banking providers
 
 - Sofi : Founded in 2011 based in San Francisco USA.Worth $9B, with 7.5 Million customer.
 - Nubank : Founded in 2013 based in Sao Paulo, Brazail.Worth $25B, with 35 Million Customer.
@@ -106,7 +109,15 @@ The trends of digital banking:
 
 ## Results
 
-* What has been the business impact of this company so far?
+### Impact of chime
+
+>chime is a an online bank that is attemting to change the way people think about money and aim to partner with customers to help them acheive their goals that ends with a mutual benifit. It does not profit of customers by charging fees, their revenue is coming by taking a percentage of the interchange fees that VISA  charges to the merchant. Their gools are 
+- to have their customers use their chime debit card for purchase
+- to ship debit cards quickly witin 1 day
+- to reduce the time from application complete to the customer receiving their card
+- to increase referral year over year 
+
+
 
 ### What to look at when measuring the success of a fintech business?
 
@@ -117,6 +128,21 @@ The trends of digital banking:
 - Daily revenue, and/or the number of transactions,
 - Marketing metrics that best work for the business,
 - Technical metrics, including page load times and database memory use that indicate how smoothly your tool performs.
+
+> chime acquisition funnel is done through steps, Incoming traffic from various sources , APP searches, App downloads, New account applications, Chime debit card activiation, 1st Chime card swipe, and 50th chime debit card swipe.
+> here is how chime is compared with the other rivals in the domain
+
+| Company | Number of Customers | Value |
+| ------- | ------------------- | ----- |
+| Chime   |                     |.      |
+| Sofi    |
+| NuBank. |
+| Tinkof  |
+| N26.    |
+| Revolut | 15 Million.         | $33B  |
+
+
+
 
 ### Chime Performance
 
@@ -148,6 +174,7 @@ But, there are 3 looming threats to the growth to Chime and other FinTech Compan
 - eMarketer (https://www.emarketer.com/content/chime-no-1-neobank-us)
 - FinTech Magazine (https://fintechmagazine.com/
 - topmobilebanks.com (https://topmobilebanks.com/blog/biggest-digital-banks-2021/)
+- Slideshare (https://www.slideshare.net/BryantOwens/chime-product-breakdown-final-219595468)
 
 
 

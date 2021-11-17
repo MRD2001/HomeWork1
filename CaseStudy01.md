@@ -171,6 +171,11 @@ But, **there are 3 looming threats to the growth to Chime and other FinTech Comp
 
 ## Recommendations
 
+> It has been mentioned in multiple occussions that there are issues or limitation in the customers onboarding to the chime APP. Some negative reviews and feedback coming from customers trying to register in some blogs. So, I would adivse to put an extra attention to the onboarding process, especially chime is a digital bank and does not have a branch where customers can walk into and ask for an advice.chime needs to rely on technology to attend customer service issues and to find oppurtunities in customers needs to create new services.
+
+
+The company can utilise **AI/ML** to enhance the perosnalisation and streamline the onboaridng further.This technology will improve the customer service, as people still seek human interaction to ask or solve their problems, with better AI and conversational BOTs, chime can reach to a human-like interaction with the customers which will put them at ease. This will increase the acqusition rates, and reduce the customer churn, hence encourage the customers to use their services which means more swipes and more reveneue to the company.
+
 * If you were to advise the company, what products or services would you suggest they offer? 
 * Why do you think that offering that this product or service would benefit the company?
 * What technologies would this product or service utilize
